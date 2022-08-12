@@ -46,7 +46,7 @@ const storeDescription = {
 
 // Работа с массивами 
 
-const arr = [1, 3, 5, 7, 2]
+// const arr = [1, 3, 5, 7, 2]
 
 arr.sort(compare)
 // Быстрая сортировка алгоритм 
@@ -121,3 +121,5 @@ const add = {
 
 const colorHair = (Object.assign({},add))   
 console.log(colorHair)
+
+
